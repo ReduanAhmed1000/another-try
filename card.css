@@ -1,0 +1,62 @@
+.card-content{
+
+     width: 100%;
+     background-color: rgb(173, 99, 99) ;
+     padding: 20px;
+     box-sizing: border-box;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+
+}
+
+.card{
+
+    width: 300px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px;
+
+
+}
+
+
+.card-img{
+
+  width: 100%;
+    
+
+}
+
+
+.card-title{
+   color: white;
+  font-size: 2rem;
+  text-align: center;
+
+}
+
+.card-des{
+
+    text-align: justify;
+    color: white;
+  padding: 10px;
+   line-height: 30px;
+
+
+}
+
+
+.card:hover{
+
+   box-shadow: 5px 5px 10px skyblue
+   
+   
+   
+   
+   
+   
+   ;
+
+}
